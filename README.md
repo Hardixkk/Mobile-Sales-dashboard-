@@ -127,7 +127,7 @@ Key design elements include:
 
 ### Month-to-Date Report
 
-![MTD Sales Report](screenshots/mtd-sales-report.png)
+![MTD Sales Report](https://github.com/Hardixkk/Mobile-Sales-dashboard-/blob/main/MTD%20Report.png)
 
 *Upload the three screenshots to the `screenshots` folder using these filenames, or change the paths to match your actual filenames.*
 
