@@ -123,7 +123,7 @@ Key design elements include:
 
 ### Same Period Last Year Report
 
-![Same Period Last Year Report](screenshots/same-period-last-year.png)
+![Same Period Last Year Report](https://github.com/Hardixkk/Mobile-Sales-dashboard-/blob/main/Year%20wise%20sales.png)
 
 ### Month-to-Date Report
 
