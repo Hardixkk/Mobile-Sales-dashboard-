@@ -119,7 +119,7 @@ Key design elements include:
 
 ### Main Mobile Sales Dashboard
 
-![Mobile Sales Dashboard](screenshots/mobile-sales-dashboard.png)
+![Mobile Sales Dashboard](https://github.com/Hardixkk/Mobile-Sales-dashboard-/blob/main/Sales%20Dashboard.png)
 
 ### Same Period Last Year Report
 
